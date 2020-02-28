@@ -1,0 +1,168 @@
+ /* .hom{
+
+       background-image: url(.);    
+
+
+    background-position: center;
+    background-size: cover;
+ background-repeat: no-repeat;
+  height:100%;  
+ background-attachment: fixed; 
+
+ width: 1603px;
+height: 668px; 
+
+
+ }  */
+
+/* .navbar-light .navbar-nav .nav-link 
+    color: #ffc107;
+     */
+    
+    
+
+
+
+    
+
+
+/* .clear{
+
+    clear: both;
+}
+
+.section-header .secion-titel{font-size: 35px;
+    text-transform: capitalize; */
+
+/* margin-bottom: 10px;
+margin-top: 20px;
+}
+.section-header .line{display: block;
+    height: 5px;
+    width: 50px;
+    background-color: #96c93d;
+
+margin:0px auto 20px ;
+}  */
+
+/* .header .logo{
+
+    width: 40%;
+    float: left;
+    padding: 30px;
+
+}  */
+
+/* .clear{
+    clear: both;
+}
+
+.header .nave {
+
+    width: 60%;
+    float: left;
+    list-style: none;
+} 
+ .header-content{ 
+
+     overflow: hidden;} 
+
+ .header .nave li {display:inline-block; 
+
+
+ }  */
+
+/* 
+.header .nave li a {
+
+color: #ffc107;
+ padding: 30px; 
+ display: block;
+ font-size: 25px; 
+text-decoration: none; 
+
+
+}   */
+
+  .carousel img {
+
+    
+    background-position: center;
+    background-size: cover;
+ background-repeat: no-repeat;
+ 
+ background-attachment: fixed; 
+
+
+ 
+
+  }
+
+
+
+
+.section-header{
+
+      text-align: center;
+      margin-bottom: 20px; 
+      margin-top: 20px;
+}
+
+.section-header .section-title{
+
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.section-header .line{
+
+    display: block;
+    height: 5px;
+    width: 80px;
+    margin: 0px  auto 70px auto ;
+    background-color: darkgoldenrod;
+}
+
+.pd-y{
+
+    padding: 120px 0
+}
+
+ 
+.img-img img{
+     width: 220px; 
+
+    /* margin-bottom: 20px; */
+    margin:auto
+}
+
+.elementor-12 .elementor-element.elementor-element-611740d .elementor-text-editor {
+    text-align: center;}
+
+/*  */
+
+ 
+
+
+
+
+    
+
+
+li{
+
+list-style: none;
+text-align: right;
+}
+
+iframe{width: 100%;
+    margin-bottom: 60px;
+
+
+}
+
+i{
+    padding-right: 20px;
+    color: #d4af37;
+}
